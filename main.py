@@ -9,4 +9,3 @@ def v_c_finder(word:str):
     # print(f"Total consonants in {word} is {count}")
 
 v_c_finder('Bangladesh')
-
